@@ -7,6 +7,6 @@
 ---
 
 ### 🛠 About Me
-- 🔭 I’m working on cool stuff!
+- 🔭 I'm making a great code!
 - 🌱I'm learning Python!
 - 🎮I'm good at playing games
