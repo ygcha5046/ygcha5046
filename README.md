@@ -22,4 +22,4 @@
 
   ---
  -Thank you for coming to JAE's channel
- https://img.freepik.com/free-vector/thank-you-lettering_1262-6963.jpg?semt=ais_hybrid&w=740
+ <img src="https://img.freepik.com/free-vector/thank-you-lettering_1262-6963.jpg?semt=ais_hybrid&w=740" alt="GitHub Logo" width="400"/>
