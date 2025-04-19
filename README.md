@@ -1,12 +1,11 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Welcome to My GitHub 👋</h1>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJWNEhHIxWC1bF5fSzyxwfs_rCoT8P_NNCR59Re2zJKw&s&ec=72940545" width="400"/>
+  <img src="https://your-image-link.png" alt="Cool PNG" width="400"/>
 </p>
 
 ---
 
-### 🔥 My GitHub Stats
-<p align="center">
-  <img src="" />
-</p>
+### 🛠 About Me
+- 🔭 I’m working on cool stuff!
+- 🌱 I’m currently learning GitHub profile customization!
