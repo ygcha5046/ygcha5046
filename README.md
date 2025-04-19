@@ -8,4 +8,5 @@
 
 ### 🛠 About Me
 - 🔭 I’m working on cool stuff!
-- 🌱 I’m currently learning GitHub profile customization!
+- 🌱I'm learning Python!
+- 🎮I'm good at playing games
