@@ -22,4 +22,4 @@
 
   ---
  -Thank you for coming to my channel~~
- <img src="https://cdn.crowdpic.net/detail-thumb/thumb_d_8D7BCB0984EC470AB4A38F60FF4732C4.png" alt="GitHub Logo" width="400"/>
+ <img src="https://png.pngtree.com/png-clipart/20210711/original/pngtree-thank-you-lettering-png-image_6508700.jpg" alt="GitHub Logo" width="400"/>
